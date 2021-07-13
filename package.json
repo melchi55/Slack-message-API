@@ -1,0 +1,14 @@
+{
+  "name": "slack-update-message",
+  "version": "1.0.0",
+  "description": "automate slack message",
+  "main": "sendMessage.js",
+  "scripts": {
+    "test": "node sendMessage.js"
+  },
+  "author": "jpm zedek",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
